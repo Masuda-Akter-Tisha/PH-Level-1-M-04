@@ -1,0 +1,15 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right:20px;
+}
+nav li:hover{
+    background-color: palevioletred;
+}
+nav a:hover{
+    color:yellow;
+}
+nav a{
+    text-decoration: none;
+    font-size:20px;
+}
